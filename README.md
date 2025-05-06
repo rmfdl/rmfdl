@@ -1,16 +1,51 @@
-## Hi there 👋
+<h1 align="center">Hi there, I'm Raihan 👋</h1>
 
-<!--
-**rmfdl/rmfdl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  🎓 Informatika student | 🤖 Machine Learning & Computer Vision Enthusiast <br>
+  🛠️ Skilled in Python
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+I'm passionate about building real-world solutions using machine learning and deep learning.  
+Currently focusing on:
+- 🧠 Convolutional Neural Networks (CNN)
+- 📦 Transfer Learning (e.g. InceptionV3)
+- 📊 Image classification & regression tasks
+
+---
+
+## 📌 Featured Projects
+
+### 🚦 [Traffic Sign Classification using InceptionV3](https://github.com/rmfdl/Traffic-Sign-Classification-InceptionV3)
+A computer vision model that classifies Indonesian traffic signs using transfer learning and CNN.
+
+### 🐄 Cattle Body Weight Prediction
+CNN regression model to estimate cow weight based on body measurements from images.
+
+### 🎬 PlayScroll - Movie Recommendation System
+A recommender system built during Kampus Merdeka @ Orbit Ventura using collaborative filtering.
+
+> See more in my pinned repositories!
+
+---
+
+## 🛠️ Tools & Technologies
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/-Keras-D00000?logo=keras&logoColor=white)
+![Google Colab](https://img.shields.io/badge/-Google_Colab-F9AB00?logo=googlecolab&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
+
+---
+
+## 📫 Contact Me
+- 📧 Email: raihan.mufadhal@gmail.com
+- 🔗 LinkedIn: [linkedin.com/in/namakamu](https://linkedin.com/in/namakamu) *(update ini kalau kamu punya)*
+
+---
+
+<p align="center">
+  📍 Let's build something great together!
+</p>
