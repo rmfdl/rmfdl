@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Raihan 👋</h1>
 
 <p align="center">
-  🎓 Informatika student | 🤖 Machine Learning & Computer Vision Enthusiast <br>
+  🎓 Informatics student | 🤖 Machine Learning & Computer Vision Enthusiast <br>
   🛠️ Skilled in Python
 </p>
 
