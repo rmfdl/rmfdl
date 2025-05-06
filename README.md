@@ -42,7 +42,7 @@ A recommender system built during Kampus Merdeka @ Orbit Ventura using collabora
 
 ## 📫 Contact Me
 - 📧 Email: raihan.mufadhal@gmail.com
-- 🔗 LinkedIn: [linkedin.com/in/namakamu](https://linkedin.com/in/namakamu) *(update ini kalau kamu punya)*
+- 🔗 LinkedIn: https://www.linkedin.com/in/raihan-mufadhal/
 
 ---
 
