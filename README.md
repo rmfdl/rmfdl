@@ -19,15 +19,10 @@ Currently focusing on:
 ## 📌 Featured Projects
 
 ### 🚦 [Traffic Sign Classification using InceptionV3](https://github.com/rmfdl/Traffic-Sign-Classification-InceptionV3)
-A computer vision model that classifies Indonesian traffic signs using transfer learning and CNN.
+A computer vision model that classifies German traffic signs using transfer learning and CNN.
 
 ### 🐄 Cattle Body Weight Prediction
 CNN regression model to estimate cow weight based on body measurements from images.
-
-### 🎬 PlayScroll - Movie Recommendation System
-A recommender system built during Kampus Merdeka @ Orbit Ventura using collaborative filtering.
-
-> See more in my pinned repositories!
 
 ---
 
@@ -41,7 +36,7 @@ A recommender system built during Kampus Merdeka @ Orbit Ventura using collabora
 ---
 
 ## 📫 Contact Me
-- 📧 Email: raihan.mufadhal@gmail.com
+- 📧 Email: raihan23rm@gmail.com
 - 🔗 LinkedIn: https://www.linkedin.com/in/raihan-mufadhal/
 
 ---
